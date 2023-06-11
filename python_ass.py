@@ -1,3 +1,6 @@
+#python minor project on finding square root of quadratic equation
+#by nandani masurkar CSE(A)
+
 import math
 
 def find_roots(a, b, c):
